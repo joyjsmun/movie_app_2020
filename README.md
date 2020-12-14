@@ -1,3 +1,5 @@
 #movie_app_2020
 
-React JS Fundmentals Course (2020 update!)
+React JS Fundmentals Practice
+
+https://joyjsmun.github.io/movie_app_2020/
